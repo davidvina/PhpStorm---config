@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0680ab91-d234-4a13-a675-95db03671dfb" name="islandia" url="http://islandia">
+        <fileTransfer host="islandia" port="22" privateKey="$USER_HOME$/.ssh/dvinagre-Bitbucket" rootFolder="/srv/users/serverpilot/apps/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
