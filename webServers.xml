@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="86dee0d1-da0e-48b0-b570-11ab1be2e099" name="bsv" url="http://www.bsvelectronic.com/">
+        <fileTransfer host="138.201.21.223" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
