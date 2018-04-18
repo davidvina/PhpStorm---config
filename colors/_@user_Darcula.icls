@@ -4,12 +4,13 @@
     <property name="created">2018-01-10T11:50:28</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.1.0.0</property>
-    <property name="modified">2018-04-17T11:32:17</property>
+    <property name="modified">2018-04-18T15:12:40</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="PT Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="FILESTATUS_ADDED" value="aedc70" />
     <option name="FILESTATUS_COPIED" value="aedc70" />
