@@ -4,14 +4,16 @@
     <option name="selectedTheme" value="MONOKAI" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="highlightThickness" value="3" />
     <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="customTreeIndent" value="2" />
     <option name="accentColor" value="80cbc4" />
     <option name="compactSidebar" value="true" />
-    <option name="tabsHeight" value="50" />
+    <option name="tabsHeight" value="40" />
+    <option name="themedScrollbars" value="false" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="customSidebarHeight" value="24" />
+    <option name="customSidebarHeight" value="22" />
     <option name="darkTitleBar" value="true" />
   </component>
 </application>
