@@ -1,7 +1,11 @@
 <templateSet group="SASS">
-  <template name="///" value="///## comment block&#10;//" description="comment block" toReformat="false" toShortenFQNames="true">
+  <template name="///" value="/// &gt;=&gt; comment block&#10;//" description="comment block" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="CSS" value="false" />
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="//-" value="// ---------------------------------------------~@" description="comment separator" toReformat="false" toShortenFQNames="true">
+    <context>
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="HAML" value="false" />
