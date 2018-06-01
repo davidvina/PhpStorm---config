@@ -4,4 +4,8 @@
       <option name="Twig" value="true" />
     </context>
   </template>
+  <template name="blk" value="{% block $NAME$ %}&#10;    $END$&#10;{% endblock %}&#10;" description="block...endblock" toReformat="true" toShortenFQNames="false" deactivated="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
