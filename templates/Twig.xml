@@ -1,0 +1,7 @@
+<templateSet group="Twig">
+  <template name="ifdemo" value="{% if exportValue != &quot;demo&quot; %}&#10;    {content()}&#9;&#9;&#9;&#10;{% else %}&#10;    &lt;!-- demo content here --&gt;&#10;{% endif %}" description="demo" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>
