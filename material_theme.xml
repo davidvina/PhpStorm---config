@@ -1,13 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.3.1" />
+    <option name="version" value="2.4.2-2018.1" />
     <option name="selectedTheme" value="MONOKAI" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
     <option name="highlightThickness" value="3" />
     <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="customTreeIndent" value="2" />
     <option name="accentColor" value="80cbc4" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="30" />
@@ -16,5 +15,7 @@
     <option name="customSidebarHeight" value="22" />
     <option name="darkTitleBar" value="true" />
     <option name="useMaterialFont" value="false" />
+    <option name="userId" value="db6e260:16432fc1353:-7fff" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>
