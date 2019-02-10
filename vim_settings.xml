@@ -1,0 +1,32 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Desktop/slimFramework/templates/error404.html.twig" timestamp="1549757787557">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/slimFramework/src/Middlewares/SetLocale.php" timestamp="1549757756957">
+        <mark key="[" line="15" column="31" />
+        <mark key="n" line="15" column="31" />
+      </file>
+      <file name="/Bash" timestamp="1549757831047">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
