@@ -3,27 +3,103 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/slimFramework/templates/error404.html.twig" timestamp="1549757787557">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Desktop/slimFramework/templates/error404.html.twig" timestamp="1550000160700">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="5" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/slimFramework/src/Middlewares/SetLocale.php" timestamp="1549757756957">
         <mark key="[" line="15" column="31" />
         <mark key="n" line="15" column="31" />
       </file>
+      <file name="$USER_HOME$/Desktop/CURSOPHP/sample.html" timestamp="1549999952410">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+      </file>
       <file name="/Bash" timestamp="1549757831047">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/CURSOPHP/sample.scss" timestamp="1549998126902">
+        <mark key="'" line="8" column="4" />
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/CURSOPHP/sample.scss" />
+      <jump line="3" column="0" filename="$USER_HOME$/Desktop/CURSOPHP/sample.scss" />
+      <jump line="9" column="4" filename="$USER_HOME$/Desktop/CURSOPHP/sample.scss" />
+      <jump line="15" column="0" filename="$USER_HOME$/Desktop/CURSOPHP/sample.scss" />
+      <jump line="8" column="4" filename="$USER_HOME$/Desktop/CURSOPHP/sample.scss" />
+      <jump line="11" column="0" filename="$USER_HOME$/Desktop/CURSOPHP/sample.html" />
+    </jumps>
+    <registers>
+      <register name="0" type="4">
+        <text>hola</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CjxwPmhvbGE8L3A+Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CjxwPmhvbGE8L3A+Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PHA+aG9sYTwvcD4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PHA+aG9sYTwvcD4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PHA+aG9sYTwvcD4K</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Ck1lIGNhZ28gZW4gZGllego8aDE+SG9sYTwvaDE+CjxoMT5Ib2xhPC9oMT4=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PGgxPkhvbGE8L2gxPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PGgzPjwvaDM+Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>!pwd</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+      <register name="/" type="4">
+        <text>hola</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>hola</last-search>
+      <last-offset />
+      <last-pattern>hola</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>font</entry>
+        <entry>hola</entry>
+      </history-search>
+      <history-cmd>
+        <entry>W!</entry>
+        <entry>w!</entry>
+        <entry>yiw</entry>
+        <entry>!ls -la</entry>
+        <entry>pwd</entry>
+        <entry>!pwd</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="true" />
