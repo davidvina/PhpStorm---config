@@ -13,12 +13,12 @@
         <mark key="[" line="15" column="31" />
         <mark key="n" line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/CURSOPHP/sample.html" timestamp="1550011302325">
-        <mark key="'" line="13" column="6" />
-        <mark key="[" line="21" column="2" />
-        <mark key="]" line="9" column="10" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="21" column="3" />
+      <file name="$USER_HOME$/Desktop/CURSOPHP/sample.html" timestamp="1550037056012">
+        <mark key="'" line="10" column="10" />
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
       </file>
       <file name="/Bash" timestamp="1549757831047">
         <mark key="[" line="0" column="0" />
@@ -39,6 +39,7 @@
       <jump line="8" column="4" filename="$USER_HOME$/Desktop/CURSOPHP/sample.scss" />
       <jump line="11" column="0" filename="$USER_HOME$/Desktop/CURSOPHP/sample.html" />
       <jump line="13" column="6" filename="$USER_HOME$/Desktop/CURSOPHP/sample.html" />
+      <jump line="10" column="10" filename="$USER_HOME$/Desktop/CURSOPHP/sample.html" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -69,19 +70,19 @@
         <text encoding="base64">PGgzPjwvaDM+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>!pwd</text>
+        <text>echo 'hola'</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="/" type="4">
-        <text>body</text>
+        <text>t</text>
       </register>
     </registers>
     <search>
-      <last-search>body</last-search>
+      <last-search>t</last-search>
       <last-offset />
-      <last-pattern>body</last-pattern>
+      <last-pattern>t</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -90,6 +91,7 @@
         <entry>font</entry>
         <entry>hola</entry>
         <entry>body</entry>
+        <entry>t</entry>
       </history-search>
       <history-cmd>
         <entry>W!</entry>
@@ -98,11 +100,19 @@
         <entry>!ls -la</entry>
         <entry>pwd</entry>
         <entry>!pwd</entry>
+        <entry>actionList</entry>
+        <entry>shell</entry>
+        <entry>echo 'hola'</entry>
+        <entry>echo %homepath%</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
