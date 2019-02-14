@@ -9,6 +9,11 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
+      <file name="$USER_HOME$/Desktop/CURSOPHP/12_Funciones/ambitoVariables.php" timestamp="1550176613062">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/slimFramework/src/Middlewares/SetLocale.php" timestamp="1549757756957">
         <mark key="[" line="15" column="31" />
         <mark key="n" line="15" column="31" />
@@ -23,12 +28,24 @@
       <file name="/Bash" timestamp="1549757831047">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/CURSOPHP/12_Funciones/funcionesPredefinidas.php" timestamp="1550177573036">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/CURSOPHP/sample.scss" timestamp="1549998126902">
         <mark key="'" line="8" column="4" />
         <mark key="[" line="10" column="11" />
         <mark key="]" line="11" column="13" />
         <mark key="^" line="11" column="13" />
         <mark key="." line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/Desktop/CURSOPHP/12_Funciones/funcionesVariables.php" timestamp="1550177507238">
+        <mark key="'" line="13" column="22" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+        <mark key="^" line="16" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/CURSOPHP/12_Funciones/index.php" timestamp="1550175206165">
         <mark key="[" line="7" column="0" />
@@ -46,49 +63,72 @@
       <jump line="11" column="0" filename="$USER_HOME$/Desktop/CURSOPHP/sample.html" />
       <jump line="13" column="6" filename="$USER_HOME$/Desktop/CURSOPHP/sample.html" />
       <jump line="10" column="10" filename="$USER_HOME$/Desktop/CURSOPHP/sample.html" />
+      <jump line="13" column="22" filename="$USER_HOME$/Desktop/CURSOPHP/12_Funciones/funcionesVariables.php" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>hola</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">CjxwPmhvbGE8L3A+Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CjxwPmhvbGE8L3A+Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">PHA+aG9sYTwvcD4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PHA+aG9sYTwvcD4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PHA+aG9sYTwvcD4K</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ck1lIGNhZ28gZW4gZGllego8aDE+SG9sYTwvaDE+CjxoMT5Ib2xhPC9oMT4=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PGgxPkhvbGE8L2gxPgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">PGgzPjwvaDM+Cg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>echo 'hola'</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Ly8gZnVuY2lvbmVzIHZhcmlhYmxlcwoKZnVuY3Rpb24gYnVlbmFzRGlhcygpewoJcmV0dXJuICdidWVub3MgRGlhczxicj4nOwp9CgoKZnVuY3Rpb24gYnVlbmFzTm9jaGVzKCl7CglyZXR1cm4gJ2J1ZW5hcyBub2NoZXM8YnI+JzsKfQoKJGJpZW52ZW5pZGEgPSAnYnVlbmFzRGlhcyc7CiRzYWx1ZG8yID0gJ2J1ZW5hcycuJF9HRVRbJ2hvcmFyaW8nXTsKCmVjaG8gJGJpZW52ZW5pZGEoKTsKCi8vIGh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC9mdW5jaW9uZXNWYXJpYWJsZXMucGhwP2hvcmFyaW89RGlhcwplY2hvICRzYWx1ZG8yKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>t</text>
+        <text>echo</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gZnVuY2lvbmVzIHZhcmlhYmxlcwoKZnVuY3Rpb24gYnVlbmFzRGlhcygpewoJcmV0dXJuICdidWVub3MgRGlhczxicj4nOwp9CgoKZnVuY3Rpb24gYnVlbmFzTm9jaGVzKCl7CglyZXR1cm4gJ2J1ZW5hcyBub2NoZXM8YnI+JzsKfQoKJGJpZW52ZW5pZGEgPSAnYnVlbmFzRGlhcyc7CiRzYWx1ZG8yID0gJ2J1ZW5hcycuJF9HRVRbJ2hvcmFyaW8nXTsKCmVjaG8gJGJpZW52ZW5pZGEoKTsKCi8vIGh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC9mdW5jaW9uZXNWYXJpYWJsZXMucGhwP2hvcmFyaW89RGlhcwplY2hvICRzYWx1ZG8yKCk7Cgo=</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">Ly8gZnVuY2lvbmVzIHZhcmlhYmxlcwoKZnVuY3Rpb24gYnVlbmFzRGlhcygpewoJcmV0dXJuICdidWVub3MgRGlhczxicj4nOwp9CgoKZnVuY3Rpb24gYnVlbmFzTm9jaGVzKCl7CglyZXR1cm4gJ2J1ZW5hcyBub2NoZXM8YnI+JzsKfQoKJGJpZW52ZW5pZGEgPSAnYnVlbmFzRGlhcyc7CiRzYWx1ZG8yID0gJ2J1ZW5hcycuJF9HRVRbJ2hvcmFyaW8nXTsKCmVjaG8gJGJpZW52ZW5pZGEoKTsKCi8vIGh0dHA6Ly9sb2NhbGhvc3Q6ODAwMC9mdW5jaW9uZXNWYXJpYWJsZXMucGhwP2hvcmFyaW89RGlhcwplY2hvICRzYWx1ZG8yKCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gc2FsdWRvKCl7CgllY2hvICdob2xhJzsKfQo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>/**
+ * Ambito variables
+ */
+
+$variableGlobal = 'hola';
+
+function mostrarVariableGlobal(){
+	// es necesario usar global para coger una variable global
+	global $variableGlobal;
+
+	echo $variableGlobal;
+
+}
+
+mostrarVariableGlobal();</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">LyoqCiAqIEVqZW1wbG8gZGUgZnVuY2lvbmVzCiAqCiAqCiAqLwoKLy8gZWplbXBsbyAxCmZ1bmN0aW9uIG11ZXN0cmFOb21icmVzKCl7CgllY2hvICdwZXBlIDxicj4nOwoJZWNobyAnbWFub2xvIDxicj4nOwoJZWNobyAnanVhbiA8YnI+JzsKCWVjaG8gJ3BlcGl0byA8YnI+JzsKfQoKbXVlc3RyYU5vbWJyZXMoKTsKCi8vIGVqZW1wbG8gMgpmdW5jdGlvbiB0YWJsYSgkbnVtZXJvKXsKCWVjaG8gJzxwPk1vc3RyYXJlbW9zIGxhIHRhYmxhIGRlIG11bHRpcGxhdCBkZWwgbnVtZXJvOiAnLiAkbnVtZXJvLic8L3A+JzsKCglmb3IgKCRpPTE7ICRpPD0xMDsgJGkrKyApewoJCWVjaG8gJGkgLiAneCcgLiAkbnVtZXJvLiAnPScgLiAkaSokbnVtZXJvIC4nPGJyPic7Cgl9Cn0KCnRhYmxhKCRfR0VUWydudW1lcm8nXSk7</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CjxwPmhvbGE8L3A+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PHA+aG9sYTwvcD4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PHA+aG9sYTwvcD4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PHA+aG9sYTwvcD4K</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">Ck1lIGNhZ28gZW4gZGllego8aDE+SG9sYTwvaDE+CjxoMT5Ib2xhPC9oMT4=</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/echo/return/g</text>
       </register>
     </registers>
     <search>
-      <last-search>t</last-search>
+      <last-search>echo</last-search>
       <last-offset />
-      <last-pattern>t</last-pattern>
+      <last-pattern>echo</last-pattern>
+      <last-replace>return</last-replace>
+      <last-substitute>echo</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -98,6 +138,9 @@
         <entry>hola</entry>
         <entry>body</entry>
         <entry>t</entry>
+        <entry>%</entry>
+        <entry>:%s</entry>
+        <entry>echo</entry>
       </history-search>
       <history-cmd>
         <entry>W!</entry>
@@ -110,6 +153,7 @@
         <entry>shell</entry>
         <entry>echo 'hola'</entry>
         <entry>echo %homepath%</entry>
+        <entry>%s/echo/return/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
