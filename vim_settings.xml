@@ -18,6 +18,12 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/CURSOPHP/22_BasesDatos/crear_tabla.sql" timestamp="1550778431623">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="4" column="37" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="16" />
+      </file>
       <file name="$USER_HOME$/Desktop/CURSOPHP/12_Funciones/index.php" timestamp="1550175206165">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="13" column="20" />
@@ -112,7 +118,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PD9waHAKdmFyX2R1bXAoJF9HRVQpOwp2YXJfZHVtcCgkX1BPU1QpOwo/Pg==</text>
+        <text>maximo 255 caracteres</text>
       </register>
       <register name="-" type="4">
         <text>button</text>
@@ -120,8 +126,8 @@
       <register name="/" type="4">
         <text>echo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CTxkaXYgY2xhc3M9ImZpZWxkIj4KCQk8bGFiZWwgZm9yPSJub21icmUiPk5vbWJyZTwvbGFiZWw+CgkJPGlucHV0IG5hbWU9Im5vbWJyZSIgdHlwZT0idGV4dCI+Cgk8L2Rpdj4KCQo=</text>
+      <register name="0" type="4">
+        <text>maximo 255 caracteres</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">PD9waHAKdmFyX2R1bXAoJF9HRVQpOwp2YXJfZHVtcCgkX1BPU1QpOwo/Pg==</text>
