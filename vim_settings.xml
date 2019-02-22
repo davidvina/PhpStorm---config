@@ -12,6 +12,12 @@
       <file name="$USER_HOME$/Desktop/CURSOPHP/16_Sesiones/pagina1.php" timestamp="1550262150780">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1550871822875">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6f8a4621-ce33-4aa5-85ee-0b696b74f093/console.sql" timestamp="1550871480342">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/CURSOPHP/17_cookies/vercookies.php" timestamp="1550263991418">
         <mark key="[" line="10" column="1" />
         <mark key="]" line="10" column="0" />
@@ -41,10 +47,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/slimFramework/src/Middlewares/SetLocale.php" timestamp="1549757756957">
-        <mark key="[" line="15" column="31" />
-        <mark key="n" line="15" column="31" />
-      </file>
       <file name="$USER_HOME$/Desktop/CURSOPHP/sample.html" timestamp="1550037056012">
         <mark key="'" line="10" column="10" />
         <mark key="[" line="14" column="8" />
@@ -64,7 +66,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="46" />
       </file>
-      <file name="/Bash" timestamp="1549757831047">
+      <file name="/Bash" timestamp="1550871193337">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/CURSOPHP/21_formularios/index.php" timestamp="1550614703050">
@@ -103,6 +105,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1550871285218">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
